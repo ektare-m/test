@@ -8,5 +8,6 @@ under Git Repositories window.
 Whenevever you want to grab from Repo
 
 1) Right click on repo in Eclipse, select Pull
-2)
+2) Again if you make changes, confirm this message with a push to upstream
+vs. push
 3)
