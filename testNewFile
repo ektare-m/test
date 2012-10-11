@@ -3,4 +3,10 @@ Whenever you want to send your WORKING code to repository:
 1) save
 2) Do NOT right click on your actual project under Package Explorer. Commit
 under Git Repositories window. 
-3) Right click, 'commit . . .' Push to upstream
+3) Right click, 'commit . . .' Push to upstream, then do a final Push as well.
+
+Whenevever you want to grab from Repo
+
+1) Right click on repo in Eclipse, select Pull
+2)
+3)
