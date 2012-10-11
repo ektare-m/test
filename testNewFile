@@ -1,7 +1,6 @@
-testing new file . . . check
+Whenever you want to send your WORKING code to repository:
 
-sending it back . . . idk
-
-testing again wtf . . . push works
-
-now try this
+1) save
+2) Do NOT right click on your actual project under Package Explorer. Commit
+under Git Repositories window. 
+3) Right click, 'commit . . .' Push to upstream
